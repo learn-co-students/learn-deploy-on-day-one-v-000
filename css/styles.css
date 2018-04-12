@@ -3,7 +3,7 @@
 
 *, *:before, *:after {
   box-sizing: border-box;
-  /*border: 1px solid red;*/
+  border: 1px solid red;
 }
 
 html {
@@ -161,6 +161,14 @@ a:visited {
 
 #diane-vu-card {
  background-image: url("https://learn-verified.s3.amazonaws.com/diane-vu.jpg");
+}
+
+#mia-b-cover {
+ background-image: url("../images/mia.jpg");
+}
+
+#mia-b-card {
+ background-image: url("../images/mia.jpg");
 }
 
 .view-profile-div {
