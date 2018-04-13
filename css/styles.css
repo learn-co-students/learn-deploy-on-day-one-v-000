@@ -6,6 +6,14 @@
   /*border: 1px solid red;*/
 }
 
+#eric-lin-cover {
+    background-image: url("https://imgur.com/a/gUEgi");
+}
+
+#eric-lin-card {
+    background-image: url("https://imgur.com/a/gUEgi");
+}
+
 html {
   font-size: 15px;
   color: #282828;
