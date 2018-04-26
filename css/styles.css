@@ -133,6 +133,14 @@ a:visited {
   height: 400px;
 }
 
+#kristin-reddington-card {
+background-image: url("https://i.imgur.com/FynAMYK.jpg");
+}
+
+#kristin-reddington-cover {
+background-image: url("https://i.imgur.com/fksBs4X.jpg");
+}
+
 #joe-burgess-card {
  background-image: url("https://learn-verified.s3.amazonaws.com/joe-burgess.jpeg");
 }
