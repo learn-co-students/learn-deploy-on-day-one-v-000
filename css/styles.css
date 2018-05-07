@@ -133,6 +133,15 @@ a:visited {
   height: 400px;
 }
 
+#david-markel-card {
+ background-image: url("https://imgur.com/BqYkFrQ.jpg");
+}
+
+#david-markel-cover {
+ background-image: url("https://imgur.com/9oKFjbe.jpg");
+}
+
+
 #joe-burgess-card {
  background-image: url("https://learn-verified.s3.amazonaws.com/joe-burgess.jpeg");
 }
