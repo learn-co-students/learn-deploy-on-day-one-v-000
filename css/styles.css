@@ -133,6 +133,10 @@ a:visited {
   height: 400px;
 }
 
+#barbara-pruz-cover {
+ background-image: url("../images/reflection.jpg");
+}
+
 #joe-burgess-card {
  background-image: url("https://learn-verified.s3.amazonaws.com/joe-burgess.jpeg");
 }
