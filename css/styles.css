@@ -134,8 +134,10 @@ a:visited {
 }
 
 #barbara-pruz-cover {
-/* background-image: url("https://drive.google.com/uc?id=1i_Gzlg0dyWyvDi7CB4hvSuwQnIbYbA2-");  reflection */
- background-image: url("https://drive.google.com/uc?id=1KWrfU_21jI-vkd_ODqyeFYAZH-CrexES");/* tree */
+ background-image: url("https://imgur.com/RBpzSHu.jpg");/* tree */
+}
+#barbara-pruz-card {
+ background-image: url("https://imgur.com/NzofLo0.jpg");
 }
 
 #joe-burgess-card {
@@ -291,7 +293,12 @@ a:visited {
   width: 75%;
   margin: 0 auto;
 }
-
+.profile-quote-author {
+  font-family: "GothamPro-Light", Helvetica, Arial, sans-serif;
+  font-size: .75em;
+  color: #85929d;
+  padding-left: 0.5em;
+}
 .details-container {
   width: 100%;
   max-width: 1200px;
