@@ -163,6 +163,14 @@ a:visited {
  background-image: url("https://learn-verified.s3.amazonaws.com/diane-vu.jpg");
 }
 
+#nick-bharucha-cover {
+ background-image: url("");
+}
+
+#nick-bharucha-card {
+ background-image: url("https://i.imgur.com/i1Sq6B9.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
