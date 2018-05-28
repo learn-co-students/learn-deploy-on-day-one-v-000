@@ -133,6 +133,14 @@ a:visited {
   height: 400px;
 }
 
+#branden-mosley-card {
+  background-image: url("https://i.imgur.com/p76F1rW.jpg");
+}
+
+#branden-mosley-cover {
+  background-image: url("https://i.imgur.com/YfUn6G3.jpg");
+}
+
 #joe-burgess-card {
  background-image: url("https://learn-verified.s3.amazonaws.com/joe-burgess.jpeg");
 }
