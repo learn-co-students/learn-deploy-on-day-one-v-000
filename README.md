@@ -55,7 +55,7 @@ The structure of this project looks something like this:
 2. Clone your fork locally.
 3. `cd` into the local repo you just cloned.
 
-## Process 
+## Process
 
 #### Add your images
 
@@ -71,12 +71,12 @@ The first thing you'll need to do is add your image assets.
     * If you hover over the top right of each image, you should see a link with 3 little dots on the left, hover over those dots and copy the *direct link* URL and paste that somewhere safe. *You will need to use these links in the `css/styles.css` file to be able to display the images in your profile*.
 
 
-  
+
   * Now we're ready to create the CSS rules that we can use to display our pictures in the HTML later on.
    * Head to the `css/styles.css` file.
    * check out some students css in the file to see what you'll need to do.
-   
-  It should look something like this 
+
+  It should look something like this
 
 ```css
   #firstname-lastname-cover {
@@ -88,11 +88,12 @@ The first thing you'll need to do is add your image assets.
   }
 
 ```
-   
+
 #### Add your Profile page
 
   1. Copy another students `student-name.html` file and rename it to your name.
   2. Open up `your-name.html` and modify it with your information (links, bio etc).
+
 
 #### Add To The Index
 
