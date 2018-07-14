@@ -163,6 +163,14 @@ a:visited {
  background-image: url("https://learn-verified.s3.amazonaws.com/diane-vu.jpg");
 }
 
+#christiana-vandermale-cover {
+ background-image: url("http://chandra.harvard.edu/photo/2018/crab/crab.jpg");
+}
+
+#christiana-vandermale-card {
+ background-image: url("https://i.imgur.com/Yn2UcuS.jpg");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
