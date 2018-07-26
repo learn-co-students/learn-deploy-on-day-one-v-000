@@ -163,6 +163,10 @@ a:visited {
  background-image: url("https://learn-verified.s3.amazonaws.com/diane-vu.jpg");
 }
 
+#kevin-chi-card {
+    background-image: url("https://i.imgur.com/yfdfwWT.jpg")
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
