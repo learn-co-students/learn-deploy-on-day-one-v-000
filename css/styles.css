@@ -163,6 +163,14 @@ a:visited {
  background-image: url("https://learn-verified.s3.amazonaws.com/diane-vu.jpg");
 }
 
+#cory-tveten-cover {
+ background-image: url("http://www.criticalcommons.org/Members/ccManager/clips/deskSetComputerIntro.mp4/thumbnailImage");
+}
+
+#cory-tveten-card {
+ background-image: url("https://avatars0.githubusercontent.com/u/34456920?s=400&u=4b04514d561b5c08deeb59c22a719ff7c6f10488&v=4");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
