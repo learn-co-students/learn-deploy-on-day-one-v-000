@@ -133,6 +133,15 @@ a:visited {
   height: 400px;
 }
 
+#joshua-needham-cover {
+  background-image: url("https://lh3.googleusercontent.com/0032P2tjZ76dOQVb7F6cHDwdgd8w3s_xv1YRdofzcORnYgt7vScnmh14dEAWoTC36OgaZVB6TOQa3SLMtIwgCGtg8phBhkt6hl1ts77WnbeNRHNzLRiiyG72AV2kG-uEMlts8DzTW2bIl-OV4mJcOmu9oO_WQA-5NFdTbrM7kEX3ormoU52citDOtYoCiKvi-N323-P6vVMC5JOHX7Zwh_rJ6QeS51G1xTo1t1-bf3fcq0vWdMAjELZstNEXJ66Rb0HuNDu_Ikrxf7E9eiQPzQP082PhEAtUw9qI68MPHj6jYR3A2_IS5eY1oXgrPFyXNiwjzFKkfYF9fL8VIVIOAxQMftI80JiM7JlpudDncN0ozrlSC4VzwF1I5D4PtBnrEBYJaeJN-3KehBKlYUmfJSXlMVvhzQaswIqqj3eikbYQCuiHSV2SIq6aMFg8skuNdDSZ6P5hOGW0phYSja2aURpI33D3dTk7vTO4O-WfTyC72Tm_VL5EqDFa3j2HWFvVqFsUWmg0Whpuiy14_UvPOYuUAVjWZwOpIP2rFYrCS_Hgnp14V9SSxLKsAgLO2KamYkQ4hINxsCQ8yZtzA_uERFpaa4fkoO_Ly6G-sKJOOIN62HqM1iL67Z18ru2m_2vB=w1560-h759-no");
+}
+
+#joshua-needham-card {
+  background-image: url("https://avatars1.githubusercontent.com/u/63559?s=460&v=4");
+}
+
+
 #joe-burgess-card {
  background-image: url("https://learn-verified.s3.amazonaws.com/joe-burgess.jpeg");
 }
