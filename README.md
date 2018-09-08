@@ -1,4 +1,4 @@
-# Your first deployment
+#### Your first deployment
 
 There is no better way to feel like a developer than by actually becoming one, which you do by shipping code. With everything you've learned thus far, we think you're ready for the challenge. In this lab, you'll make a change to the Learn website: you will be asked to add your information to our public student directory (visible to the world at http://students.learn.co) and put in motion the sequence of events to have your change go live in production.
 
