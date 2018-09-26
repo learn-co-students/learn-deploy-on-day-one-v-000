@@ -141,6 +141,19 @@ a:visited {
  background-image: url("https://learn-verified.s3.amazonaws.com/joe-burgess-cover.png");
 }
 
+#bekah-hawrot-weigel-card {
+ background-image: url("https://i.imgur.com/MrPFVvJ.jpg");
+}
+
+#bekah-hawrot-weigel-cover {
+  background: linear-gradient(#ffffff 50%, rgba(255,255,255,0) 0) 0 0,
+radial-gradient(circle closest-side, #FFFFFF 53%, rgba(255,255,255,0) 0) 0 0,
+radial-gradient(circle closest-side, #FFFFFF 50%, rgba(255,255,255,0) 0) 55px 0 #48B;
+  background-size:110px 200px;
+  background-repeat:repeat-x;
+  /*pattern by: http://lea.verou.me/css3patterns/#wave*/
+}
+
 #avi-flombaum-card {
 }
 
