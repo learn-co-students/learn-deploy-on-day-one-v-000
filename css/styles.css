@@ -163,6 +163,15 @@ a:visited {
  background-image: url("https://learn-verified.s3.amazonaws.com/diane-vu.jpg");
 }
 
+#christine-xiang-cover {
+ background-image: url("link to my imgur cover photo");
+}
+
+#christine-xiang-card {
+    background-image: url("https://imgur.com/Ut0gMpU");
+  }
+
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
