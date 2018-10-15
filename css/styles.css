@@ -163,6 +163,19 @@ a:visited {
  background-image: url("https://learn-verified.s3.amazonaws.com/diane-vu.jpg");
 }
 
+
+/* Kevin's additions */
+#kevin-williams-cover {
+ background-image: url("https://i.imgur.com/egc8Jzt.jpg");
+}
+
+#kevin-williams-card {
+ background-image: url("https://i.imgur.com/FPilMYs.jpg");
+}
+
+/* End Kevin's additions */
+
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
