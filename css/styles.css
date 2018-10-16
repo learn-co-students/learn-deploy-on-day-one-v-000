@@ -162,6 +162,13 @@ a:visited {
 #diane-vu-card {
  background-image: url("https://learn-verified.s3.amazonaws.com/diane-vu.jpg");
 }
+#laura-travin-cover {
+ background-image: url("http://www.redhikari.com/clients/learnco/flatiron2.jpg");
+}
+
+#laura-travin-card {
+ background-image: url("http://www.redhikari.com/clients/learnco/flatiron.JPG");
+}
 
 .view-profile-div {
   position: absolute;
