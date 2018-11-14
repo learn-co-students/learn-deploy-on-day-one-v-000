@@ -1,6 +1,10 @@
 /* GLOBAL STYLES
 ======================== */
 
+/* Image links:
+https://imgur.com/DE5DXls
+https://imgur.com/tvjlWtN */
+
 *, *:before, *:after {
   box-sizing: border-box;
   /*border: 1px solid red;*/
@@ -139,6 +143,14 @@ a:visited {
 
 #joe-burgess-cover {
  background-image: url("https://learn-verified.s3.amazonaws.com/joe-burgess-cover.png");
+}
+
+#rima-jean-card {
+ background-image: url("https://scontent-dfw5-1.xx.fbcdn.net/v/t1.0-9/30725214_1972002459731679_4320429850700546048_n.jpg?_nc_cat=105&_nc_ht=scontent-dfw5-1.xx&oh=f551e64516f617983a579230694f2b9e&oe=5C8A6F63");
+}
+
+#rima-jean-cover {
+ background-image: url("https://scontent-dfw5-1.xx.fbcdn.net/v/t1.0-9/44702843_2095201640745093_6952532603081588736_n.jpg?_nc_cat=104&_nc_ht=scontent-dfw5-1.xx&oh=95b5fc2f7cc37bbc8a6c88f9b6d3923e&oe=5C764519");
 }
 
 #avi-flombaum-card {
