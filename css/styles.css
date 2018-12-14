@@ -1,6 +1,7 @@
 /* GLOBAL STYLES
 ======================== */
 
+
 *, *:before, *:after {
   box-sizing: border-box;
   /*border: 1px solid red;*/
@@ -139,6 +140,16 @@ a:visited {
 
 #joe-burgess-cover {
  background-image: url("https://learn-verified.s3.amazonaws.com/joe-burgess-cover.png");
+}
+
+#leo-beagsley-card {
+ background: url(leo_beagsley.jpg);
+ background-color: #cccccc;
+}
+
+#leo-beagsley-cover {
+ background: url(leo_beagsley.jpg);
+  background-color: #cccccc;
 }
 
 #avi-flombaum-card {
