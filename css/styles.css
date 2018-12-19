@@ -1,3 +1,6 @@
+/* https://imgur.com/a/wfwCKOK profile photo*/
+/* https://imgur.com/2iA91mk 
+//imgur.com/2iA91mkcover photo*/
 /* GLOBAL STYLES
 ======================== */
 
@@ -161,6 +164,13 @@ a:visited {
 
 #diane-vu-card {
  background-image: url("https://learn-verified.s3.amazonaws.com/diane-vu.jpg");
+}
+#heather-miller-cover {
+ background-image: url("http://i.imgur.com/2iA91mk.png");
+}
+
+#heather-miller-card {
+ background-image: url("http://i.imgur.com/Pdftxkv.png");
 }
 
 .view-profile-div {
