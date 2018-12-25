@@ -223,6 +223,14 @@ a:visited {
   background-repeat: no-repeat;
 }
 
+#fatama-rahman-cover {
+  background-image: url("https://imgur.com/a/fBnRPUF");
+}
+
+#fatama-rahman-card {
+  background-image: url("https://imgur.com/a/fBnRPUF");
+}
+
 .vitals-container {
   position: relative;
   min-height: 360px;
